@@ -1,0 +1,10 @@
+package ex01;
+
+public class Printer {
+
+	public void Print(String _s)
+	{
+		System.out.println(_s);
+	}
+	
+}
